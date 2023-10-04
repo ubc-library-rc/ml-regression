@@ -26,6 +26,9 @@ At the end of this workshop, you will be able to:
 | 1:20 - 1:30 | Wrap-up and Discussion|
 | 1:30 - 2:00 | Optional Q&A|
 
+## Slides
+Find the workshop slides below or <a href="slides/introduction.html" target="_blank">open it in a new tab</a>:
+
 ## Resources
 * Colab Notebook: <a target="_blank" href="https://colab.research.google.com/github/ubc-library-rc/intro-machine-learning/blob/main/Examples/Regression_examples.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
