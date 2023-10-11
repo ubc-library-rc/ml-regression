@@ -14,8 +14,8 @@ In this workshop, we will use cloud-based platforms, so you don’t need to have
 
 At the end of this workshop, you will be able to:
 1. Understand regression models and their applications in machine learning.
-2. Learn to load and preprocess data effectively and train regression models for real-world datasets.
-3. Interpret and analyze regression model results, including performance metrics and coefficients. 
+2. Train regression models for real-world datasets.
+3. Interpret and analyze regression model results. 
 
 ## Schedule
 
