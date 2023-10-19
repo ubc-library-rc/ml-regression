@@ -45,8 +45,9 @@ Find the workshop slides below or <a href="slides/introduction.html" target="_bl
 
 
 ## Other workshops in the series 
-Workshop 2- Classification and Clustering: https://ubc-library-rc.github.io/ml-classification-clustering/
-Workshop 3- Neural Networks: https://ubc-library-rc.github.io/ml-neural-networks/
+Workshop 2- Classification and Clustering: <a href="https://ubc-library-rc.github.io/ml-classification-clustering/"> Click here </a>
+<br>
+Workshop 3- Neural Networks: <a href="https://ubc-library-rc.github.io/ml-neural-networks/"> Click here </a>
 
 ## Resources
 * Colab Notebook: <a target="_blank" href="https://colab.research.google.com/github/ubc-library-rc/intro-machine-learning/blob/main/Examples/Regression_examples.ipynb">
